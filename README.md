@@ -11,11 +11,17 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+  <img align="center" alt="REACT" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
+  <img align="center" alt="NEXT" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
+  <img align="center" alt="Styledcomponents" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg">
+  <img align="center" alt="NODE" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="FIGMA" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
+  <img align="center" alt="REACT" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
 </div>
 
 ##
