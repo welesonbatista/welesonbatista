@@ -1,5 +1,6 @@
 ### Oi, eu sou o Weleson Batista <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=welesonbatista&color=yellow" alt="Profile views" /> </p>
+
+[![Profile views](https://komarev.com/ghpvc/?username=welesonbatista&color=yellow)](https://komarev.com/ghpvc/?username=welesonbatista&color=yellow)
 [![wakatime](https://wakatime.com/badge/user/371d5ba3-adb3-4a81-8afa-df9fbb91a928.svg)](https://wakatime.com/@371d5ba3-adb3-4a81-8afa-df9fbb91a928)
 
 - Sou **Desenvolvedor Fullstack Júnior**, com enfoque no desenvolvimento web.
